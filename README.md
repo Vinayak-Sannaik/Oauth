@@ -1,7 +1,5 @@
-# Oauth
-Oauth System
-# Oauth
-This repository demonstrates how to implement Google OAuth authentication system for GitHub using Node.js and Passport.js.
+# Oauth System
+This repository demonstrates how to implement Google OAuth authentication system using Node.js and Passport.js.
 
 Prerequisites
 Before getting started, make sure you have the following prerequisites installed on your system:
