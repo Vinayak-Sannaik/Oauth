@@ -12,3 +12,5 @@ Before getting started, make sure you have the following prerequisites installed
 ![image](https://github.com/Vinayak-Sannaik/Oauth/assets/112576218/170a69b9-8c14-483d-b6a6-23295ee06c1a)
 
 
+# Don't forget to add your own google credentials 😁🤦‍♂️
+
